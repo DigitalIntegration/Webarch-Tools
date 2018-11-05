@@ -12,7 +12,9 @@ from requests.auth import HTTPBasicAuth
 # Authorization credentials
 this_user = 'your_ait_username'
 this_pwd = 'your_ait_pwd'
-
+#
+#
+#
 # This the header row of the CSV.
 report_header = ["Collection ID","Collection Name","Crawl ID","Crawl Event","Crawl Started","Crawl Completed","Crawl Size ","Crawl Size (Bytes)","Days Remaining to Save","Username","No. Seeds","Sample Seed","Sample Seed Type","Crawl URL"]
 
